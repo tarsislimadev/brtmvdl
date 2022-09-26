@@ -50,7 +50,7 @@
 
 <div>&nbsp;</div>
 
-### Infra-estrutura
+### Infraestrutura
 
 <div>&nbsp;</div>
 
