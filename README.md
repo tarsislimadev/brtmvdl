@@ -1,4 +1,4 @@
-## Principais projetos:
+## Projetos
 
 * Arquitetura de microserviços em [go lang](https://github.com/brtmvdl/go) e [node.js](https://github.com/brtmvdl/nodejs)
 
@@ -65,7 +65,7 @@
 
 </div>
 
-### Banco de dados
+### Bancos de dados
 
 <div>&nbsp;</div>
 
