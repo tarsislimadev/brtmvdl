@@ -1,6 +1,5 @@
 ## Projetos
 
-Arquitetura de microserviços
 - [go lang](https://github.com/brtmvdl/go)
 - [javascript (node.js)](https://github.com/brtmvdl/nodejs)
 - [python](https://github.com/brtmvdl/python)
