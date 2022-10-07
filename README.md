@@ -1,6 +1,6 @@
 ## Projetos
 
-* Arquitetura de microserviços em [go lang](https://github.com/brtmvdl/go) e [javascript(node.js)](https://github.com/brtmvdl/nodejs)
+* Arquitetura de microserviços em [go lang](https://github.com/brtmvdl/go) e [javascript (node.js)](https://github.com/brtmvdl/nodejs)
 
 * Desafio Fullstack para [Ubistart](https://github.com/brtmvdl/ubistart-challenge)
 <!-- [front-end](https://github.com/brtmvdl/ubistart-backend-challenge) [back-end](https://github.com/brtmvdl/ubistart-backend-challenge) -->
