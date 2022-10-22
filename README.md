@@ -1,12 +1,12 @@
 ## Projetos
 
+- [kotlin](https://github.com/brtmvdl/kotlin)
+- [node.js](https://github.com/brtmvdl/nodejs)
 - [go lang](https://github.com/brtmvdl/go)
-- [javascript (node.js)](https://github.com/brtmvdl/nodejs)
-- [python](https://github.com/brtmvdl/python)
 
 ## Desafios
 
-- Fullstack para [Ubistart](https://github.com/brtmvdl/ubistart-challenge)
+- Fullstack para [Ubistart](https://github.com/brtmvdl/ubistart)
 
 ## Sociais
 
