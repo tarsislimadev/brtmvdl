@@ -7,6 +7,7 @@
 ## Desafios
 
 - Fullstack para [Ubistart](https://github.com/brtmvdl/ubistart)
+- Back-end para [Coodesh](https://github.com/brtmvdl/nodejs-20201030-coodesh)
 
 ## Sociais
 
