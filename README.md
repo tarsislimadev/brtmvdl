@@ -1,13 +1,12 @@
 ## Projetos
 
 - [node.js](https://github.com/brtmvdl/nodejs)
-
 - [go lang](https://github.com/brtmvdl/go)
 
 ## Desafios
 
-- Fullstack para [Ubistart](https://github.com/brtmvdl/ubistart)
-- Back-end para [Coodesh](https://github.com/brtmvdl/nodejs-20201030-coodesh)
+- [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart]()
+- [Node.js](https://github.com/brtmvdl/coodesh) para [Coodesh]()
 
 ## Sociais
 
