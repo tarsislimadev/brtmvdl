@@ -1,7 +1,7 @@
 ## Projetos
 
-- [kotlin](https://github.com/brtmvdl/kotlin)
 - [node.js](https://github.com/brtmvdl/nodejs)
+
 - [go lang](https://github.com/brtmvdl/go)
 
 ## Desafios
