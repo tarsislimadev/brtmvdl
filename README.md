@@ -5,7 +5,7 @@
 
 ## Desafios
 
-- [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart]()
+- [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart](https://www.ubistart.com/)
 - [Node.js](https://github.com/brtmvdl/coodesh) para [Coodesh]()
 
 ## Sociais
