@@ -2,7 +2,6 @@
 
 - [node.js](https://github.com/brtmvdl/nodejs)
 - [go lang](https://github.com/brtmvdl/go)
-- [java](https://github.com/brtmvdl/java)
 - [python](https://github.com/brtmvdl/python)
 
 ## Desafios
