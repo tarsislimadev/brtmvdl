@@ -1,16 +1,16 @@
-## Projetos
+## Projects
 
 - [node.js](https://github.com/brtmvdl/nodejs)
 - [go lang](https://github.com/brtmvdl/go)
 - [python](https://github.com/brtmvdl/python)
 
-## Desafios
+## Challenges
 
 - [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart](https://www.ubistart.com/)
 - [Node.js](https://github.com/brtmvdl/coodesh) para [Coodesh](https://coodesh.com/)
 - [Back-end](https://github.com/brtmvdl/buildbox) para [BuildBox]()
 
-## Sociais
+## Socials
 
 [![Calendly](https://img.shields.io/badge/Calendly-0066FF?style=for-the-badge&logo=&logoColor=white)](https://calendly.com/brtmvdl/consultoria)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/brtmvdl/)
