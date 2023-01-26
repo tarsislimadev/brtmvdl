@@ -1,9 +1,3 @@
-## Projects
-
-- [node.js](https://github.com/brtmvdl/nodejs)
-- [go lang](https://github.com/brtmvdl/go)
-- [python](https://github.com/brtmvdl/python)
-
 ## Challenges
 
 - [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart](https://www.ubistart.com/)
