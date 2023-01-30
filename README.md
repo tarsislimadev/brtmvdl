@@ -1,8 +1,18 @@
+# FullStack Developer
+
+## Licenses & certifications
+
+- [React.js]() at [Coodesh](https://coodesh.com/)
+- [Challenge - React.js]() at [Coodesh](https://coodesh.com/)
+- [Challenge - Node.js]() at [Coodesh](https://coodesh.com/)
+- [AWS Certified Cloud Practitioner]() at [Alura](https://www.alura.com.br/)
+- [Amazon Web Services]() at [Alura](https://www.alura.com.br/)
+
 ## Challenges
 
-- [Fullstack](https://github.com/brtmvdl/ubistart) para [Ubistart](https://www.ubistart.com/)
-- [Node.js](https://github.com/brtmvdl/coodesh) para [Coodesh](https://coodesh.com/)
-- [Back-end](https://github.com/brtmvdl/buildbox) para [BuildBox]()
+- [Fullstack](https://github.com/brtmvdl/ubistart) to [Ubistart](https://www.ubistart.com/)
+- [Node.js](https://github.com/brtmvdl/coodesh) to [Coodesh](https://coodesh.com/)
+- [Back-end](https://github.com/brtmvdl/buildbox) to [BuildBox]()
 
 ## Socials
 
