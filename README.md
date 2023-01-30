@@ -2,11 +2,11 @@
 
 ## Licenses & certifications
 
-- [React.js]() at [Coodesh](https://coodesh.com/)
-- [Challenge - React.js]() at [Coodesh](https://coodesh.com/)
-- [Challenge - Node.js]() at [Coodesh](https://coodesh.com/)
-- [AWS Certified Cloud Practitioner]() at [Alura](https://www.alura.com.br/)
-- [Amazon Web Services]() at [Alura](https://www.alura.com.br/)
+- [React.js](https://coodesh.com/share/certificate/d93efbc0-5951-11ed-9234-1dd7b81b6ac9) at [Coodesh](https://coodesh.com/)
+- [Challenge - React.js](https://coodesh.com/share/certificate/22051a10-13ed-11ed-9234-2579e5c50e85) at [Coodesh](https://coodesh.com/)
+- [Challenge - Node.js](https://coodesh.com/share/certificate/18a05f00-4703-11ec-9234-e921016da5e8) at [Coodesh](https://coodesh.com/)
+- [AWS Certified Cloud Practitioner](https://cursos.alura.com.br/degree/certificate/3cba6b31-8fa5-41c9-a550-3941e6745723) at [Alura](https://www.alura.com.br/)
+- [Amazon Web Services](https://cursos.alura.com.br/degree/certificate/01945181-af9f-44f7-bbd3-ecb69959ce3c) at [Alura](https://www.alura.com.br/)
 
 ## Challenges
 
