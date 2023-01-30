@@ -14,7 +14,7 @@
 - [Node.js](https://github.com/brtmvdl/coodesh) to [Coodesh](https://coodesh.com/)
 - [Back-end](https://github.com/brtmvdl/buildbox) to [BuildBox]()
 
-## Socials
+## Profiles
 
 [![Calendly](https://img.shields.io/badge/Calendly-0066FF?style=for-the-badge&logo=&logoColor=white)](https://calendly.com/brtmvdl/consultoria)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/brtmvdl/)
