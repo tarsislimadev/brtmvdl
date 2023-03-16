@@ -16,15 +16,14 @@
 
 ## Languages
 
-- [Node.js]()
-- [Go]()
-- [Python]()
-- [Java]()
-
-- [Scala]()
-- [Clojure]()
-- [PHP]()
-- [Ruby]()
+- [Node.js](https://github.com/brtmvdl/nodejs)
+- [Go](https://github.com/brtmvdl/go)
+- [Python](https://github.com/brtmvdl/go)
+- [Java](https://github.com/brtmvdl/java)
+- [Scala](https://github.com/brtmvdl/scala)
+- [Clojure](https://github.com/brtmvdl/clojure)
+- [PHP](https://github.com/brtmvdl/php)
+- [Ruby](https://github.com/brtmvdl/ruby)
 
 ## Profiles
 
@@ -32,4 +31,3 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/brtmvdl/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=&logoColor=white)](https://twitter.com/brtmvdl)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@brtmvdl)
-
