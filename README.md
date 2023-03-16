@@ -14,6 +14,18 @@
 - [Node.js](https://github.com/brtmvdl/coodesh) to [Coodesh](https://coodesh.com/)
 - [Back-end](https://github.com/brtmvdl/buildbox) to [BuildBox]()
 
+## Languages
+
+- [Node.js]()
+- [Go]()
+- [Python]()
+- [Java]()
+
+- [Scala]()
+- [Clojure]()
+- [PHP]()
+- [Ruby]()
+
 ## Profiles
 
 [![Calendly](https://img.shields.io/badge/Calendly-0066FF?style=for-the-badge&logo=&logoColor=white)](https://calendly.com/brtmvdl/consultoria)
