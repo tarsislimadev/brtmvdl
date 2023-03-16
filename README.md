@@ -18,7 +18,7 @@
 
 - [Node.js](https://github.com/brtmvdl/nodejs)
 - [Go](https://github.com/brtmvdl/go)
-- [Python](https://github.com/brtmvdl/go)
+- [Python](https://github.com/brtmvdl/python)
 - [Java](https://github.com/brtmvdl/java)
 - [Scala](https://github.com/brtmvdl/scala)
 - [Clojure](https://github.com/brtmvdl/clojure)
