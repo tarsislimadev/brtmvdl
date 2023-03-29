@@ -21,6 +21,7 @@
 - [Python](https://github.com/brtmvdl/python)
 - [Java](https://github.com/brtmvdl/java)
 - [.Net](https://github.com/brtmvdl/dotnet)
+- [clojure](https://github.com/brtmvdl/clojure)
 - [PHP](https://github.com/brtmvdl/php)
 - [Ruby](https://github.com/brtmvdl/ruby)
 
