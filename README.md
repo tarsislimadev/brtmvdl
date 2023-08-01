@@ -25,9 +25,6 @@
 - [Clojure](https://github.com/brtmvdl/clojure)
 - [PHP](https://github.com/brtmvdl/php)
 - [Ruby](https://github.com/brtmvdl/ruby)
-
-### Soon
-
 - [Cobol](https://github.com/brtmvdl/cobol)
 
 ## Profiles
@@ -36,4 +33,3 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/brtmvdl/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=&logoColor=white)](https://twitter.com/brtmvdl)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=&logoColor=white)](https://www.youtube.com/@brtmvdl)
-
