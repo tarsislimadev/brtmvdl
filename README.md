@@ -1,4 +1,3 @@
 
 
-[![aula](./image.png)]([https://](https://www.linkedin.com/in/brtmvdl/))
-
+[![aula](./image.png)](https://www.linkedin.com/in/brtmvdl/)
